@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cherries
+  - Damageable
+  - Environment
+  - Enemy
+  - Blast
   layers:
   - Default
   - TransparentFX
@@ -13,11 +18,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Environment
+  - Collectibles
+  - Player
+  - Damageable
+  - Blast
   - 
   - 
   - 
@@ -38,6 +43,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 974801907
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3751726043
+    locked: 0
+  - name: Player
+    uniqueID: 4186398609
+    locked: 0
+  - name: Lava
+    uniqueID: 2902023693
+    locked: 0
+  - name: Environment
+    uniqueID: 728024247
     locked: 0

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 94ee9a671fb744a499caea4b0f688256
+  productGUID: 54a6c7f50fe8c6e48b31468dddab2c2e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TestGitHub
+  productName: Group Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -718,14 +718,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TestGitHub
+  metroPackageName: Group Project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TestGitHub
+  metroApplicationDescription: Group Project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -793,10 +793,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0dae3415-aadb-4027-b745-f9c9fc4864ec
+  cloudProjectId: fcf2c8c8-86f0-4ef3-99b0-762aad736511
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TestGitHub
+  projectName: Group Project 2023-12-05_12-11-36
   organizationId: aishiteruyo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
